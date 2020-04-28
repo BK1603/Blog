@@ -22,7 +22,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # nofollowLinks = true
 
 [taxonomies]
-  tag = "writeup, personal, cryptopals, gsoc, pwnable.kr"
+  tag = "tags"
   # Categories are disabled by default.
 
 [params]
@@ -63,11 +63,20 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     name = "github"
     url = "https://github.com/BK1603"
 
+  [[params.social]]
+    name = "email"
+    url = "mailto:chouhan.shreyansh2702@gmail.com"
+
 [menu]
 
   [[menu.main]]
     name = "Posts"
     url = "posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Tags"
+    url = "tags/"
     weight = 10
 
   [[menu.main]]
