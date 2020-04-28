@@ -25,8 +25,8 @@ somewhere, try looking at these hints and see if you get somewhere with
 the problem.
 
 ## Hint
-The input is through a file descriptor, what file descriptor can you
-write to?
+The program reads from a file descriptor, what file descriptor can you
+modify?
 
 ## How I solved it
 The title of the first problem at [pwnable.kr](https://pwnable.kr) is fd.
