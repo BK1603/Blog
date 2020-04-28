@@ -33,7 +33,7 @@ The title of the first problem at [pwnable.kr](https://pwnable.kr) is fd.
 If you have even a little experience with linux or have manipulated files in a language like C, you'd think that the problem somehow involves file descriptors. And you wouldn't be wrong. Clicking on the problem you'd find
 the following hint:
 ```
-Mommy! what is a file dexriptor in Linux?
+Mommy! what is a file descriptor in Linux?
 
 * try to play the wargame your self but if you are ABSOLUTE beginner, follow this tutorial link:
 https://youtu.be/971eZhMHQQw
