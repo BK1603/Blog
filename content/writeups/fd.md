@@ -133,7 +133,7 @@ total 16
 -rw-r--r-- 1 root   root  418 Jun 11  2014 fd.c
 -r--r----- 1 fd_pwn root   50 Jun 11  2014 flag
 ```
-We see that the flag file is only readable be the owner `fd_pwn` or by
+We see that the flag file is only readable by the owner `fd_pwn` or by
 someone belonging to the `root` group. 
 
 Well if that's the case then how does the `fd` binary `cat`s the file? The
