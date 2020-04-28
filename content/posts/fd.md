@@ -1,7 +1,7 @@
 ---
-title: "fd"
+title: "fd: The first problem at pwnable.kr"
 date: 2020-04-28T17:31:41+05:30
-draft: true
+draft: false
 toc: false
 images:
 tags: 

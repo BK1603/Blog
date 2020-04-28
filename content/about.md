@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2020-04-28T16:39:25+05:30
-draft: true
+draft: false
 ---
 
 Hey there! I am Shreyansh. I am a student currently pursuing bachelors
