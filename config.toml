@@ -36,7 +36,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "A CTF writeup/open-source blog by Shreyansh Chouhan"
+  homeSubtitle = "An open-source blog/CTF writeups by Shreyansh Chouhan"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
@@ -71,13 +71,13 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   [[menu.main]]
     name = "Writeups"
-    url = "writeups/"
+    url = "posts/writeups/"
     weight = 5
 
   [[menu.main]]
     name = "Blog"
-    url = "blog/"
-    weight = 7
+    url = "posts/blog/"
+    weight = 5
 
   [[menu.main]]
     name = "Tags"
