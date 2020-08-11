@@ -4,13 +4,16 @@ date: 2020-04-28T16:39:25+05:30
 draft: false
 ---
 
-Hey there! I am Shreyansh. I am a student currently pursuing bachelors
-degree of technology in computer science. I'd like to describe myself as
-a curious monkey. Ever since I was a kid, I would always break my toys 
-to see how things worked "under the hood". Guess I never really grew up, 
-only the toys changed. :)
+Hi there!
+I'm Shreyansh, glad to have you on board. I am a college student
+pursuing bachelors of technology in computer science. I'd like to
+describe myself as curious. I like to know how things work under the
+hood. I find that contributing to open source projects really helps
+me with that. I am a contributor to various open source organisations.
+You can checkout my github profile for more info! My username, as you
+might have guessed is BK1603.
 
-I like doing a lot of things apart from programming and cybersecurity
+I like doing a lot of things apart from programming and tech related
 stuff. I play piano and sing along sometimes. I like powerlifting and
 weightlifting, in fact I might compete sometime in the future. I have
 tried my hands at photography, a bit of street magic, playing ukelele
