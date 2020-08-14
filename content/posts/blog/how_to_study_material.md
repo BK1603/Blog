@@ -26,7 +26,7 @@ I thought to myself, "Why not?"
 
 Anyone using linux who hasn't been able to accesss the "Study Material" shared folder on their sytsems
 because of the absence of instructions and the cryptic nature of the files downloaded. (The configuration
-file ends with a `.ovpn`, and when I first looked at such a file an year ago, it made absolutely no sense
+file ends with a `.ovpn`, and when I first looked at such a file a year ago, it made absolutely no sense
 to me whatsoever.) I'll try and explain why we are doing what we are doing too so if you're interested in
 that do read it to the end.
 
