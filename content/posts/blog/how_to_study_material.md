@@ -122,6 +122,6 @@ is how was the port number found. Well it's there among the last lines of the `o
 ## Conclusion
 
 Well there you go. That should be it. If there are any problems, you can try reaching out via email or gitter. My gitter userhandle is BK1603. I'll try and help you out as much as possible. Also I hope
-that all you are staying safe and doing well!
+that all of you are staying safe and doing well!
 
 (I'll try and add a comments section soon enough, I've been partly busy and partly lazy about it.)
