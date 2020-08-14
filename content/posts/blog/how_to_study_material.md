@@ -33,6 +33,9 @@ that do read it to the end.
 Lastly I hope this works with Macbooks too. Honestly I am too poor to be able to afford one and test it
 out. Do let me know if it doesn't work though, I'll try and help to the best of my abilities.
 
+**EDIT:** After a 30 minute long discussion with [Divya](https://github.com/thedevastateddreamer), turns out the config file provided by our college
+won't work as is on mac. Bummer :(
+
 ## TL;DR
 
 - Install openvpn on your distribution. For most of you it should be:
@@ -42,7 +45,7 @@ sudo apt install openvpn
   (Others can refer to the documentation of their distributions on how to use their package managers.)
 - Go to [the link mentioned in the pdf](https://14.139.238.98:8180/userportal/webpages/myaccount/login.jsp) and login using the Sophos
   password. (Yes that Sophos password. Took me 7 tries.)
-- Download the configuration files for other OS. You should get a file with the folowing name format:
+- Download the configuration files for other OS. You should get a file with the folowing name format (other OSs):
 ```
 <enrollment_number>@pdc.jiit__ssl_vpn_config.ovpn
 ```
