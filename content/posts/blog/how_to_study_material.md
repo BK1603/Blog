@@ -46,7 +46,7 @@ sudo apt install openvpn
 ```
 <enrollment_number>@pdc.jiit__ssl_vpn_config.ovpn
 ```
-- Open the downloaded file with your favorite editor. For me it'll be like this on the temrinal:
+- Open the downloaded file with your favorite editor. For me it'll be like this on the terminal:
 ```
 edit ~/Downloads/18103150@pdc.jiit__ssl_vpn_config
 ```
