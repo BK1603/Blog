@@ -9,13 +9,13 @@ tags:
   - samba
 ---
 
-I recently received a call from my room mate. He was asking about how he could access the "Study Material"
-shared folder from our college. He mentioned that the college had sent us a file with directions for setting
+I recently received a call from my room mate. He asked me about how he could access the "Study Material"
+shared folder from our college, mentioneing that the college had sent us a file with directions for setting
 it up, (which I was blissfully unaware of, honestly I couldn't care less about the classes starting right now
 :/)
 
-Well upon opening the file I did find some instructions, BUT they are only for windows, I don't know
-what to say. I really don't. For all the good peeps running linux, here's my guide on how to set it up.
+Well, upon opening the file I did find some instructions, BUT they are only for windows. (I don't know
+what to say. I really don't.) For all the good peeps running linux, here's my guide on how to set it up.
 
 PS: Of course I could have just called my room mate up and told him the entire thing. Heck I could
 even have logged in on his laptop via ssh and done it all by myself, but this blog desparately needs posts
@@ -95,7 +95,7 @@ the file to where it's supposed to be sent via a secure tunnel. Detailed explana
 
 ### The "comp-lzo" voodoo
 
-The OpenVPN client needs to know wether the server will be expecting compressed packets. If the server
+The OpenVPN client needs to know whether the server will be expecting compressed packets. If the server
 is infact accepting compressed packets, the client would then require the compression algorithm that
 the server is expecting. In our case it is the `lzo` algorithm. In the config file we have `comp-lzo` set
 to `no`.
@@ -108,12 +108,12 @@ Which I am guessing means that the decompression resulted in an unknown header b
 or simply we are using the wrong compression algorithm.
 
 Second, `comp-lzo` is a deprecated flag. It will soon be removed from OpenVPN. It has been replaced by
-the `compress` flag. You simply write the name of the algorithm after the `compress` flag for it to work
-like `comp-lzo`. In our case it would be `compress lzo`.
+the `compress` flag. You simply write the name of the algorithm after the `compress` flag for it to work.
+In our case it would be `compress lzo`.
 
 ### The rest of it
 
-The rest of it us just us basically whatever the prompt asks us to. One question that remains unanswered
+The rest of it is just us basically whatever the prompt asks us to. One question that remains unanswered
 is how was the port number found. Well it's there among the last lines of the `ovpn` file that we downloaded.
 
 ## Conclusion
