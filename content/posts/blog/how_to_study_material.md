@@ -10,7 +10,7 @@ tags:
 ---
 
 I recently received a call from my room mate. He asked me about how he could access the "Study Material"
-shared folder from our college, mentioneing that the college had sent us a file with directions for setting
+shared folder from our college, mentioning that the college had sent us a file with directions for setting
 it up, (which I was blissfully unaware of, honestly I couldn't care less about the classes starting right now
 :/)
 
