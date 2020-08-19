@@ -65,6 +65,9 @@ sudo openvpn --config ~/Downloads/<enrollment_number>@pdc.jiit__ssl_vpn_config.o
 - Open your file manager.
 - Most have a connect to server/remote network in the left side tray at the very bottom.
 - Enter this ip adress in the server field: `172.16.68.30`. (From the pdf given to us by our college.)
+  
+  **EDIT**: Ubuntu users, or anyone using the GNOME file manager might have to type in the ip address along
+  with the protocol and the directory name like so: `smb://172.16.68.30/Study Material`. Thanks Priyansh.
 - Set the port to `8443`.
 - Add the username and passwords in there respective feilds, and leave everything else as is.
 
