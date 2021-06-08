@@ -2,3 +2,9 @@
 	path = public
 	url = https://github.com/BK1603/BK1603.github.io.git
 	branch = master
+[submodule "hugo-ink"]
+	path = hugo-ink
+	url = https://github.com/knadh/hugo-ink.git
+[submodule "themes/ink"]
+	path = themes/ink
+	url = https://github.com/knadh/hugo-ink.git

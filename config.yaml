@@ -1,0 +1,48 @@
+baseURL: 'https://bk1603.github.io/'
+languageCode: en-us
+title: BK1603
+theme: ink
+paginate: 5
+copyright: © Copyright notice
+
+pygmentsstyle: vs
+pygmentscodefences: true
+pygmentscodefencesguesssyntax: true
+
+disqusShortname: bk1603-github-io
+
+params:
+  subtitle: 'Kernel hacker, contributor at QEMU and Neovim'
+  avatar: '/images/avatar.jpg'
+  disableDisqusTypes:
+    - page
+  featherIconsCDN: true
+  mode: auto
+  social:
+    - name: Github
+      icon: github
+      url: 'https://github.com/BK1603'
+
+    - name: RSS
+      icon: rss
+      url: /index.xml
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+
+    - name: All posts
+      url: /posts
+      weight: 2
+
+    - name: About
+      url: /about
+      weight: 3
+
+    - name: Tags
+      url: /tags
+      weight: 4
+taxonomies:
+  tag: tags
