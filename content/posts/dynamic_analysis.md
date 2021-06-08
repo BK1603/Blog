@@ -53,7 +53,7 @@ introduction of what these tools are and what can/can't they do.
 ## Static code analysis
 
 Static code analysis tools try to find errors in the source code of a program.
-Hence, the errors that they report are true for all the executions of a give
+Hence, the errors that they report are true for all the executions of a given
 program, as opposed to dynamic code analysis tools (which we will discuss
 later.) They can be helpful for finding simple bugs like:
 
